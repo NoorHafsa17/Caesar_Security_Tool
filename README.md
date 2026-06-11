@@ -1,8 +1,7 @@
-# PRODIGY_CS_01 — Caesar Security Tool 🔐
+# Caesar Security Tool 🔐
 
 **Author:** Noor Hafsa  
-**Internship:** Prodigy InfoTech — Cyber Security Track  
-**Task:** 01 — Caesar Cipher (Educational + Defensive Demo)
+**Project:** — Caesar Cipher (Educational + Defensive Demo)
 
 ---
 
